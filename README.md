@@ -161,9 +161,9 @@ Here’s a detailed overview of each section:
 
 ## Author
 **Vedant Datta Mare**  
-- **Email**: [vedantmare5@gmail.com](mailto:vedantmare5@gmail.com)  
+- **Email**: [shrutigonte24@navgurukul.org](mailto:shrutigonte24@navgurukul.org)  
 - **Location**: Pune, Maharashtra, India  
-- **GitHub Profile**: [Vedant's GitHub](https://github.com/yourusername) (Replace with your actual GitHub URL)  
+- **GitHub Profile**: [Shruti's GitHub](https://github.com/Shrutigonte) (Replace with your actual GitHub URL)  
 
 ---
 
