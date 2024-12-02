@@ -160,7 +160,7 @@ Here’s a detailed overview of each section:
 ---
 
 ## Author
-**Vedant Datta Mare**  
+**Shruti Gonte**  
 - **Email**: [shrutigonte24@navgurukul.org](mailto:shrutigonte24@navgurukul.org)  
 - **Location**: Pune, Maharashtra, India  
 - **GitHub Profile**: [Shruti's GitHub](https://github.com/Shrutigonte) (Replace with your actual GitHub URL)  
